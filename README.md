@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently learning ...
 -->
-I am a hacker and programmer[![Mew](https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966=width=20)]
+I am a hacker and programmer![image](https://user-images.githubusercontent.com/53485243/190436323-68ad119d-4466-4fc8-b02d-339bbe1df0c8.png)
+
 
 Do you want to be one too? Check out my advice for learning hacking and programming
 
